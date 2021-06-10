@@ -34,3 +34,6 @@ Using docker:
 ```
 docker container run -d --rm -it light_bot
 ```
+
+## Example
+![Image](img/chat.PNG)
